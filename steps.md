@@ -29,3 +29,23 @@ Removed the Gutenberg english header and footer and placed in a file named liked
 The French version of Frankenstein is split over 3 volumes so removed each of the english headers and footers and then concatenated all 3 files into a single file.
 
 Each of the books were zipped.
+
+### Wortschatz, Leipzig University
+
+A Gold mine corpora: https://wortschatz.uni-leipzig.de/en
+
+-   English: https://wortschatz.uni-leipzig.de/en/download/English
+-   German: https://wortschatz.uni-leipzig.de/en/download/German
+-   French: https://wortschatz.uni-leipzig.de/en/download/French
+-   Arabic: https://wortschatz.uni-leipzig.de/en/download/Arabic
+-   Japanese: https://wortschatz.uni-leipzig.de/en/download/Japanese
+-   Afrikaans: https://wortschatz.uni-leipzig.de/en/download/Afrikaans
+
+Sources:
+
+-   Downloaded the Afrikaans news 300k sentences set: "afr_news_2017_300K.tar.gz"
+-   Downloaded the English news 1 million sentences set: "eng_news_2023_1M.tar.gz"
+-   Downloaded the Japanese news 100k sentences set: "jpn_news_2020_100K.tar.gz"
+
+Extracted each .tar.gz and only kept the "\*-sentences.txt" file.
+Zipped each of the sentences files.
