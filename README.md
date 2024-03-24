@@ -1,2 +1,3 @@
-# datasets-ngrams
-Datasets used in ngram generation
+# datasets-text
+
+Datasets used in text processing.
