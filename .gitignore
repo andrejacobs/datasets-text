@@ -1,2 +1,5 @@
 *-letter-*-ngrams.txt
 *-word-*-ngrams.txt
+
+packaged/ngrams/**/*.zip
+!packaged/ngrams/**/top-*.zip

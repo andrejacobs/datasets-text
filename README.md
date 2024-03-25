@@ -18,5 +18,5 @@ Code contributions are welcome.
 ## Generating ngrams
 
 TODO: mention install
-WARNING 1.98GB on disk (atw)
+WARNING 1.98GB on disk (atw), packaged is 401MB
 TODO: disclaimer about not stripping tokens and also gutenberg data
