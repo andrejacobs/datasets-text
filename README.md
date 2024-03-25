@@ -17,6 +17,26 @@ Code contributions are welcome.
 
 ## Generating ngrams
 
-TODO: mention install
-WARNING 1.98GB on disk (atw), packaged is 401MB
-TODO: disclaimer about not stripping tokens and also gutenberg data
+If you want to generate your own ngrams then please install `ngrams` from https://github.com/andrejacobs/go-analyse
+
+Run the script `ngrams.sh`:
+
+```shell
+./scripts/ngrams.sh
+```
+
+At the time of writing the generated ngrams are about 1.98GB.
+
+To package up the ngrams into zip files, run the script `package.sh`:
+
+```shell
+./scripts/package.sh
+```
+
+At the time of writing the packaged files is about 410MB.
+
+## Disclaimer
+
+Minimum processing was done to the source corpora and thus the generated ngrams will reflect that. For example the top 3 words from the Gutenberg sources include things like "\* \* \*" and "the project gutenberg".
+
+Also for time being the `ngrams` program makes no attempt at stripping symbols or doing any post processing on the input sources.

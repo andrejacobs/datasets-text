@@ -55,3 +55,5 @@ Zipped each of the sentences files.
 Used my `ngrams` program to generate letter and word combinations. Please see https://github.com/andrejacobs/go-analyse for details.
 
 Run: `./scripts/ngrams.sh`
+
+Run: `./scripts/package.sh`
