@@ -49,3 +49,9 @@ Sources:
 
 Extracted each .tar.gz and only kept the "\*-sentences.txt" file.
 Zipped each of the sentences files.
+
+## Ngrams
+
+Used my `ngrams` program to generate letter and word combinations. Please see https://github.com/andrejacobs/go-analyse for details.
+
+Run: `./scripts/ngrams.sh`

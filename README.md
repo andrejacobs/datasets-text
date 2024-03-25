@@ -14,3 +14,9 @@ Thank you for considering contributions, however I am not taking any contributio
 Simply because I want to keep the size of this repo down to a minimum.
 
 Code contributions are welcome.
+
+## Generating ngrams
+
+TODO: mention install
+WARNING 1.98GB on disk (atw)
+TODO: disclaimer about not stripping tokens and also gutenberg data
