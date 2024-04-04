@@ -15,6 +15,10 @@ Simply because I want to keep the size of this repo down to a minimum.
 
 Code contributions are welcome.
 
+## Top 1000 ngrams
+
+The top 1000 letter and word ngrams can be found in the `packaged/ngrams` directory. See the following section on how this data was generated.
+
 ## Generating ngrams
 
 If you want to generate your own ngrams then please install `ngrams` from https://github.com/andrejacobs/go-analyse
